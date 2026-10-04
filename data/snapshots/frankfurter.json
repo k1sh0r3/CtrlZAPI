@@ -1,14 +1,14 @@
 {
   "id": "frankfurter",
   "name": "Frankfurter FX",
-  "fetchedAt": "2026-10-03T11:13:39.998Z",
+  "fetchedAt": "2026-10-04T11:53:21.174Z",
   "endpoints": {
     "/latest?from=USD": {
       "label": "Latest FX rates",
       "url": "https://api.frankfurter.app/latest?from=USD",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-03T11:13:39.998Z",
+      "fetchedAt": "2026-10-04T11:53:21.174Z",
       "hash": "d669bece0e945bf3",
       "schema": {
         "type": "object",

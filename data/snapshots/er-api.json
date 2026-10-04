@@ -1,14 +1,14 @@
 {
   "id": "er-api",
   "name": "ExchangeRate-API",
-  "fetchedAt": "2026-10-03T11:13:41.100Z",
+  "fetchedAt": "2026-10-04T11:53:22.278Z",
   "endpoints": {
     "/v6/latest/USD": {
       "label": "Latest rates",
       "url": "https://open.er-api.com/v6/latest/USD",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-03T11:13:41.100Z",
+      "fetchedAt": "2026-10-04T11:53:22.278Z",
       "hash": "b2051501b4d8ce47",
       "schema": {
         "type": "object",
