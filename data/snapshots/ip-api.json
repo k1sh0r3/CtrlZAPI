@@ -1,14 +1,14 @@
 {
   "id": "ip-api",
   "name": "IP-API",
-  "fetchedAt": "2026-10-04T11:53:26.851Z",
+  "fetchedAt": "2026-10-05T13:50:35.545Z",
   "endpoints": {
     "/json/8.8.8.8": {
       "label": "Geolocate IP",
       "url": "http://ip-api.com/json/8.8.8.8",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-04T11:53:26.850Z",
+      "fetchedAt": "2026-10-05T13:50:35.545Z",
       "hash": "e48d226ff0ecd7ce",
       "schema": {
         "type": "object",

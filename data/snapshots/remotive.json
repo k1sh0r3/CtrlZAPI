@@ -1,15 +1,15 @@
 {
   "id": "remotive",
   "name": "Remotive",
-  "fetchedAt": "2026-10-04T11:54:07.981Z",
+  "fetchedAt": "2026-10-05T13:51:10.315Z",
   "endpoints": {
     "/api/remote-jobs?limit=1": {
       "label": "Remote jobs",
       "url": "https://remotive.com/api/remote-jobs?limit=1",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-04T11:54:07.981Z",
-      "hash": "eb396814cec2703a",
+      "fetchedAt": "2026-10-05T13:51:10.315Z",
+      "hash": "11587a031cad3887",
       "schema": {
         "type": "object",
         "fields": {
@@ -51,7 +51,7 @@
                 "tags": {
                   "type": "array",
                   "items": {
-                    "type": "string|string|string|string|string|string|string|string|string|string|string|string|unknown"
+                    "type": "string|string|string|string|string|string|string|string|string|string|string|unknown"
                   }
                 },
                 "job_type": {
