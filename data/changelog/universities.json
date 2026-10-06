@@ -1,4 +1,16 @@
 {
   "id": "universities",
-  "entries": []
+  "entries": [
+    {
+      "date": "2026-10-06",
+      "endpoint": "/search?name=middle",
+      "changes": [
+        {
+          "op": "type_changed",
+          "path": "[].state-province",
+          "detail": "null|null|null|null|null|null|null|null|string -> null|null|string"
+        }
+      ]
+    }
+  ]
 }
