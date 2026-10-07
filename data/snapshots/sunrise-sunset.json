@@ -1,14 +1,14 @@
 {
   "id": "sunrise-sunset",
   "name": "Sunrise-Sunset",
-  "fetchedAt": "2026-10-06T12:54:17.091Z",
+  "fetchedAt": "2026-10-07T12:48:19.182Z",
   "endpoints": {
     "/json?lat=52.52&lng=13.41&formatted=0": {
       "label": "Sun times",
       "url": "https://api.sunrise-sunset.org/json?lat=52.52&lng=13.41&formatted=0",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-06T12:54:17.091Z",
+      "fetchedAt": "2026-10-07T12:48:19.182Z",
       "hash": "8b914e6a0214b3e1",
       "schema": {
         "type": "object",

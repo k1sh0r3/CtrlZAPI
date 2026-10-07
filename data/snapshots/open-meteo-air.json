@@ -1,14 +1,14 @@
 {
   "id": "open-meteo-air",
   "name": "Open-Meteo Air Quality",
-  "fetchedAt": "2026-10-06T12:54:12.766Z",
+  "fetchedAt": "2026-10-07T12:48:14.922Z",
   "endpoints": {
     "/v1/air-quality?latitude=52.52&longitude=13.41&current=us_aqi": {
       "label": "Current air quality",
       "url": "https://air-quality-api.open-meteo.com/v1/air-quality?latitude=52.52&longitude=13.41&current=us_aqi",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-06T12:54:12.765Z",
+      "fetchedAt": "2026-10-07T12:48:14.922Z",
       "hash": "fa15835f20c247e8",
       "schema": {
         "type": "object",
