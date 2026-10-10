@@ -1,4 +1,26 @@
 {
   "id": "npm",
-  "entries": []
+  "entries": [
+    {
+      "date": "2026-10-10",
+      "endpoint": "/express/latest",
+      "changes": [
+        {
+          "op": "added",
+          "path": "_npmUser.approver",
+          "detail": "new object (2 fields)"
+        },
+        {
+          "op": "added",
+          "path": "_npmUser.trustedPublisher",
+          "detail": "new object (2 fields)"
+        },
+        {
+          "op": "added",
+          "path": "dist.attestations",
+          "detail": "new object (2 fields)"
+        }
+      ]
+    }
+  ]
 }

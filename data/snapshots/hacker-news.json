@@ -1,14 +1,14 @@
 {
   "id": "hacker-news",
   "name": "Hacker News",
-  "fetchedAt": "2026-10-09T12:43:33.270Z",
+  "fetchedAt": "2026-10-10T12:02:25.371Z",
   "endpoints": {
     "/v0/item/8863.json": {
       "label": "Get an item",
       "url": "https://hacker-news.firebaseio.com/v0/item/8863.json",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-09T12:43:33.270Z",
+      "fetchedAt": "2026-10-10T12:02:25.370Z",
       "hash": "e64b73c793255b8f",
       "schema": {
         "type": "object",
