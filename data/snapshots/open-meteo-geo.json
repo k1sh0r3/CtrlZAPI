@@ -1,14 +1,14 @@
 {
   "id": "open-meteo-geo",
   "name": "Open-Meteo Geocoding",
-  "fetchedAt": "2026-10-12T14:38:43.301Z",
+  "fetchedAt": "2026-10-13T13:42:57.401Z",
   "endpoints": {
     "/v1/search?name=Berlin&count=1": {
       "label": "Geocode a place",
       "url": "https://geocoding-api.open-meteo.com/v1/search?name=Berlin&count=1",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-12T14:38:43.301Z",
+      "fetchedAt": "2026-10-13T13:42:57.401Z",
       "hash": "65661c04d8d40553",
       "schema": {
         "type": "object",
