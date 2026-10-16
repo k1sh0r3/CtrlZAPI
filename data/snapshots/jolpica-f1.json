@@ -1,14 +1,14 @@
 {
   "id": "jolpica-f1",
   "name": "Jolpica F1",
-  "fetchedAt": "2026-10-15T10:59:13.407Z",
+  "fetchedAt": "2026-10-16T10:53:30.924Z",
   "endpoints": {
     "/ergast/f1/current/driverStandings/": {
       "label": "Driver standings",
       "url": "https://api.jolpi.ca/ergast/f1/current/driverStandings/",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-15T10:59:13.407Z",
+      "fetchedAt": "2026-10-16T10:53:30.924Z",
       "hash": "f10dcc08e34f2109",
       "schema": {
         "type": "object",
