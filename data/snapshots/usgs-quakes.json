@@ -1,14 +1,14 @@
 {
   "id": "usgs-quakes",
   "name": "USGS Earthquakes",
-  "fetchedAt": "2026-10-18T10:31:38.099Z",
+  "fetchedAt": "2026-10-19T12:22:50.943Z",
   "endpoints": {
     "/fdsnws/event/1/query?format=geojson&limit=5&orderby=time": {
       "label": "Recent earthquakes",
       "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&limit=5&orderby=time",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-18T10:31:38.099Z",
+      "fetchedAt": "2026-10-19T12:22:50.943Z",
       "hash": "0ba947f1cd9bef37",
       "schema": {
         "type": "object",
