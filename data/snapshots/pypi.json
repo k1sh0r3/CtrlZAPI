@@ -1,14 +1,14 @@
 {
   "id": "pypi",
   "name": "PyPI",
-  "fetchedAt": "2026-10-19T12:23:10.515Z",
+  "fetchedAt": "2026-10-20T11:02:37.522Z",
   "endpoints": {
     "/pypi/requests/json": {
       "label": "Get package release",
       "url": "https://pypi.org/pypi/requests/json",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-19T12:23:10.515Z",
+      "fetchedAt": "2026-10-20T11:02:37.522Z",
       "hash": "730cd2a28c483d7c",
       "schema": {
         "type": "object",
