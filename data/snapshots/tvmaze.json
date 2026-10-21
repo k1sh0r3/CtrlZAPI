@@ -1,14 +1,14 @@
 {
   "id": "tvmaze",
   "name": "TVMaze",
-  "fetchedAt": "2026-10-20T11:02:46.553Z",
+  "fetchedAt": "2026-10-21T11:19:29.058Z",
   "endpoints": {
     "/shows/1": {
       "label": "Get a show",
       "url": "https://api.tvmaze.com/shows/1",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-20T11:02:46.552Z",
+      "fetchedAt": "2026-10-21T11:19:29.058Z",
       "hash": "fbe631d59e8f6379",
       "schema": {
         "type": "object",
