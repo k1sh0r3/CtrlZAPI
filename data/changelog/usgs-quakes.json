@@ -1,4 +1,31 @@
 {
   "id": "usgs-quakes",
-  "entries": []
+  "entries": [
+    {
+      "date": "2026-10-23",
+      "endpoint": "/fdsnws/event/1/query?format=geojson&limit=5&orderby=time",
+      "changes": [
+        {
+          "op": "type_changed",
+          "path": "features[].properties.alert",
+          "detail": "null -> null|null|null|string"
+        },
+        {
+          "op": "type_changed",
+          "path": "features[].properties.cdi",
+          "detail": "null -> null|null|null|number"
+        },
+        {
+          "op": "type_changed",
+          "path": "features[].properties.felt",
+          "detail": "null -> null|null|null|number"
+        },
+        {
+          "op": "type_changed",
+          "path": "features[].properties.mmi",
+          "detail": "null -> null|null|null|number"
+        }
+      ]
+    }
+  ]
 }
