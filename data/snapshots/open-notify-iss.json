@@ -1,14 +1,14 @@
 {
   "id": "open-notify-iss",
   "name": "Open Notify (ISS)",
-  "fetchedAt": "2026-10-23T11:09:22.635Z",
+  "fetchedAt": "2026-10-25T10:53:45.387Z",
   "endpoints": {
     "/iss-now.json": {
       "label": "ISS position",
       "url": "http://api.open-notify.org/iss-now.json",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-23T11:09:22.635Z",
+      "fetchedAt": "2026-10-25T10:53:45.387Z",
       "hash": "619e237e6fd3e3e0",
       "schema": {
         "type": "object",
@@ -16,10 +16,10 @@
           "iss_position": {
             "type": "object",
             "fields": {
-              "latitude": {
+              "longitude": {
                 "type": "string"
               },
-              "longitude": {
+              "latitude": {
                 "type": "string"
               }
             }
