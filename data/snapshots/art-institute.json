@@ -1,14 +1,14 @@
 {
   "id": "art-institute",
   "name": "Art Institute of Chicago",
-  "fetchedAt": "2026-10-25T10:53:37.382Z",
+  "fetchedAt": "2026-10-26T12:24:33.128Z",
   "endpoints": {
     "/api/v1/artworks/129884": {
       "label": "Get an artwork",
       "url": "https://api.artic.edu/api/v1/artworks/129884",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-25T10:53:37.381Z",
+      "fetchedAt": "2026-10-26T12:24:33.128Z",
       "hash": "a4d0b0943b792bf9",
       "schema": {
         "type": "object",
