@@ -1,15 +1,15 @@
 {
   "id": "usgs-quakes",
   "name": "USGS Earthquakes",
-  "fetchedAt": "2026-10-26T12:24:16.873Z",
+  "fetchedAt": "2026-10-27T11:43:12.815Z",
   "endpoints": {
     "/fdsnws/event/1/query?format=geojson&limit=5&orderby=time": {
       "label": "Recent earthquakes",
       "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&limit=5&orderby=time",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-26T12:24:16.872Z",
-      "hash": "f5146c072b07a1f8",
+      "fetchedAt": "2026-10-27T11:43:12.815Z",
+      "hash": "0ba947f1cd9bef37",
       "schema": {
         "type": "object",
         "fields": {
@@ -75,13 +75,13 @@
                       "type": "string"
                     },
                     "felt": {
-                      "type": "null|null|null|null|number"
+                      "type": "null"
                     },
                     "cdi": {
-                      "type": "null|null|null|null|number"
+                      "type": "null"
                     },
                     "mmi": {
-                      "type": "null|null|number"
+                      "type": "null"
                     },
                     "alert": {
                       "type": "null"
