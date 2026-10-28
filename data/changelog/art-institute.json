@@ -1,4 +1,21 @@
 {
   "id": "art-institute",
-  "entries": []
+  "entries": [
+    {
+      "date": "2026-10-28",
+      "endpoint": "/api/v1/artworks/129884",
+      "changes": [
+        {
+          "op": "type_changed",
+          "path": "data.alt_titles",
+          "detail": "null -> array"
+        },
+        {
+          "op": "type_changed",
+          "path": "data.date_qualifier_title",
+          "detail": "string -> null"
+        }
+      ]
+    }
+  ]
 }

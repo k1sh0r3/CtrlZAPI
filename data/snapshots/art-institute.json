@@ -1,15 +1,15 @@
 {
   "id": "art-institute",
   "name": "Art Institute of Chicago",
-  "fetchedAt": "2026-10-27T11:43:29.467Z",
+  "fetchedAt": "2026-10-28T12:16:43.381Z",
   "endpoints": {
     "/api/v1/artworks/129884": {
       "label": "Get an artwork",
       "url": "https://api.artic.edu/api/v1/artworks/129884",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-27T11:43:29.467Z",
-      "hash": "a4d0b0943b792bf9",
+      "fetchedAt": "2026-10-28T12:16:43.381Z",
+      "hash": "13b9fc4cd05e4844",
       "schema": {
         "type": "object",
         "fields": {
@@ -32,7 +32,10 @@
                 "type": "string"
               },
               "alt_titles": {
-                "type": "null"
+                "type": "array",
+                "items": {
+                  "type": "unknown"
+                }
               },
               "thumbnail": {
                 "type": "object",
@@ -70,7 +73,7 @@
                 "type": "string"
               },
               "date_qualifier_title": {
-                "type": "string"
+                "type": "null"
               },
               "date_qualifier_id": {
                 "type": "null"
