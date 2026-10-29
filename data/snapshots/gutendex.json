@@ -1,14 +1,14 @@
 {
   "id": "gutendex",
   "name": "Gutendex",
-  "fetchedAt": "2026-10-28T12:16:40.154Z",
+  "fetchedAt": "2026-10-29T12:26:09.423Z",
   "endpoints": {
     "/books/?ids=1342": {
       "label": "Get a book",
       "url": "https://gutendex.com/books/?ids=1342",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-28T12:16:40.153Z",
+      "fetchedAt": "2026-10-29T12:26:09.423Z",
       "hash": "283d30a0ffd3098a",
       "schema": {
         "type": "object",
