@@ -1,14 +1,14 @@
 {
   "id": "universities",
   "name": "Hipolabs Universities",
-  "fetchedAt": "2026-10-31T11:49:15.307Z",
+  "fetchedAt": "2026-11-01T12:49:03.371Z",
   "endpoints": {
     "/search?name=middle": {
       "label": "Search universities",
       "url": "http://universities.hipolabs.com/search?name=middle",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-10-31T11:49:15.306Z",
+      "fetchedAt": "2026-11-01T12:49:03.371Z",
       "hash": "6f27b74c238311e9",
       "schema": {
         "type": "array",
