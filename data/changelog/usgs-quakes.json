@@ -2,6 +2,22 @@
   "id": "usgs-quakes",
   "entries": [
     {
+      "date": "2026-11-02",
+      "endpoint": "/fdsnws/event/1/query?format=geojson&limit=5&orderby=time",
+      "changes": [
+        {
+          "op": "type_changed",
+          "path": "features[].properties.cdi",
+          "detail": "null -> null|number"
+        },
+        {
+          "op": "type_changed",
+          "path": "features[].properties.felt",
+          "detail": "null -> null|number"
+        }
+      ]
+    },
+    {
       "date": "2026-10-29",
       "endpoint": "/fdsnws/event/1/query?format=geojson&limit=5&orderby=time",
       "changes": [
