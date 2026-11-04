@@ -1,14 +1,14 @@
 {
   "id": "remotive",
   "name": "Remotive",
-  "fetchedAt": "2026-11-03T13:45:38.128Z",
+  "fetchedAt": "2026-11-04T13:54:08.277Z",
   "endpoints": {
     "/api/remote-jobs?limit=1": {
       "label": "Remote jobs",
       "url": "https://remotive.com/api/remote-jobs?limit=1",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-11-03T13:45:38.127Z",
+      "fetchedAt": "2026-11-04T13:54:08.277Z",
       "hash": "7a2691317a3bf9c5",
       "schema": {
         "type": "object",
