@@ -1,14 +1,14 @@
 {
   "id": "nager-holidays",
   "name": "Nager Public Holidays",
-  "fetchedAt": "2026-11-06T13:51:39.350Z",
+  "fetchedAt": "2026-11-07T12:35:49.656Z",
   "endpoints": {
     "/api/v3/publicholidays/2026/US": {
       "label": "Public holidays",
       "url": "https://date.nager.at/api/v3/publicholidays/2026/US",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-11-06T13:51:39.350Z",
+      "fetchedAt": "2026-11-07T12:35:49.655Z",
       "hash": "d8467fb996d99f6b",
       "schema": {
         "type": "array",
