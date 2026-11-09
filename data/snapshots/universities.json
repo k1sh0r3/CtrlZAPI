@@ -1,36 +1,24 @@
 {
   "id": "universities",
   "name": "Hipolabs Universities",
-  "fetchedAt": "2026-11-08T12:53:22.161Z",
+  "fetchedAt": "2026-11-09T15:26:54.233Z",
   "endpoints": {
     "/search?name=middle": {
       "label": "Search universities",
       "url": "http://universities.hipolabs.com/search?name=middle",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-11-08T12:53:22.161Z",
-      "hash": "6f27b74c238311e9",
+      "fetchedAt": "2026-11-09T15:26:54.233Z",
+      "hash": "bdaaa0e8d967d395",
       "schema": {
         "type": "array",
         "items": {
           "type": "object",
           "fields": {
-            "web_pages": {
-              "type": "array",
-              "items": {
-                "type": "string"
-              }
+            "alpha_two_code": {
+              "type": "string"
             },
             "name": {
-              "type": "string"
-            },
-            "country": {
-              "type": "string"
-            },
-            "state-province": {
-              "type": "null|null|null|null|null|string"
-            },
-            "alpha_two_code": {
               "type": "string"
             },
             "domains": {
@@ -38,6 +26,18 @@
               "items": {
                 "type": "string"
               }
+            },
+            "web_pages": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "country": {
+              "type": "string"
+            },
+            "state-province": {
+              "type": "null|null|null|null|null|null|null|null|null|string"
             }
           }
         }
