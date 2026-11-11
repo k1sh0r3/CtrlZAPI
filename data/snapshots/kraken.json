@@ -1,14 +1,14 @@
 {
   "id": "kraken",
   "name": "Kraken",
-  "fetchedAt": "2026-11-10T14:27:48.252Z",
+  "fetchedAt": "2026-11-11T13:42:05.762Z",
   "endpoints": {
     "/0/public/Ticker?pair=XBTUSD": {
       "label": "Get ticker information",
       "url": "https://api.kraken.com/0/public/Ticker?pair=XBTUSD",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-11-10T14:27:48.252Z",
+      "fetchedAt": "2026-11-11T13:42:05.762Z",
       "hash": "5c05949fd592188c",
       "schema": {
         "type": "object",
