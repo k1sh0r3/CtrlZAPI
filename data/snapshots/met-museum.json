@@ -1,14 +1,14 @@
 {
   "id": "met-museum",
   "name": "Met Museum",
-  "fetchedAt": "2026-11-13T14:03:56.520Z",
+  "fetchedAt": "2026-11-14T13:05:31.850Z",
   "endpoints": {
     "/public/collection/v1/objects/436535": {
       "label": "Get an object",
       "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436535",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-11-13T14:03:56.520Z",
+      "fetchedAt": "2026-11-14T13:05:31.849Z",
       "hash": "d7a7824d65b3fc8d",
       "schema": {
         "type": "object",
