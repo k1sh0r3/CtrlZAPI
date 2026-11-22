@@ -1,14 +1,14 @@
 {
   "id": "mealdb",
   "name": "TheMealDB",
-  "fetchedAt": "2026-11-21T14:21:10.178Z",
+  "fetchedAt": "2026-11-22T14:12:37.718Z",
   "endpoints": {
     "/api/json/v1/1/search.php?s=chicken": {
       "label": "Search meals",
       "url": "https://www.themealdb.com/api/json/v1/1/search.php?s=chicken",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-11-21T14:21:10.178Z",
+      "fetchedAt": "2026-11-22T14:12:37.718Z",
       "hash": "801034923edafece",
       "schema": {
         "type": "object",

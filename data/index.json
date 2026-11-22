@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:20:33.902Z",
+  "generatedAt": "2026-11-22T14:11:42.990Z",
   "totalApis": 33,
   "apis": [
     {
@@ -7,7 +7,7 @@
       "name": "Open-Meteo",
       "category": "Weather",
       "description": "Weather forecast for a fixed location (Berlin, DE).",
-      "lastChecked": "2026-11-21T14:20:34.986Z",
+      "lastChecked": "2026-11-22T14:11:44.258Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -17,7 +17,7 @@
       "name": "Open-Meteo Air Quality",
       "category": "Weather",
       "description": "Air quality index for a fixed location (Berlin, DE).",
-      "lastChecked": "2026-11-21T14:20:36.746Z",
+      "lastChecked": "2026-11-22T14:11:45.682Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -27,7 +27,7 @@
       "name": "Open-Meteo Geocoding",
       "category": "Weather",
       "description": "Place search results for a fixed query (Berlin).",
-      "lastChecked": "2026-11-21T14:20:38.522Z",
+      "lastChecked": "2026-11-22T14:11:47.132Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -37,9 +37,9 @@
       "name": "USGS Earthquakes",
       "category": "Weather",
       "description": "Latest earthquakes from the USGS feed.",
-      "lastChecked": "2026-11-21T14:20:39.583Z",
-      "lastChange": "2026-11-21",
-      "changeCount": 38,
+      "lastChecked": "2026-11-22T14:11:48.341Z",
+      "lastChange": "2026-11-22",
+      "changeCount": 41,
       "status": "ok"
     },
     {
@@ -47,7 +47,7 @@
       "name": "Sunrise-Sunset",
       "category": "Weather",
       "description": "Sunrise/sunset times for a fixed location (Berlin, DE).",
-      "lastChecked": "2026-11-21T14:20:40.690Z",
+      "lastChecked": "2026-11-22T14:11:49.569Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -57,7 +57,7 @@
       "name": "Kraken",
       "category": "Finance",
       "description": "Public crypto market ticker (XBT/USD).",
-      "lastChecked": "2026-11-21T14:20:41.730Z",
+      "lastChecked": "2026-11-22T14:11:50.612Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -67,7 +67,7 @@
       "name": "Coinbase",
       "category": "Finance",
       "description": "Spot price of BTC in USD.",
-      "lastChecked": "2026-11-21T14:20:42.767Z",
+      "lastChecked": "2026-11-22T14:11:51.656Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -77,7 +77,7 @@
       "name": "Fear & Greed Index",
       "category": "Finance",
       "description": "Crypto Fear & Greed index.",
-      "lastChecked": "2026-11-21T14:20:43.998Z",
+      "lastChecked": "2026-11-22T14:11:52.856Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -87,7 +87,7 @@
       "name": "Frankfurter FX",
       "category": "Finance",
       "description": "Foreign exchange rates against USD.",
-      "lastChecked": "2026-11-21T14:20:45.072Z",
+      "lastChecked": "2026-11-22T14:11:53.959Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -97,7 +97,7 @@
       "name": "ExchangeRate-API",
       "category": "Finance",
       "description": "Exchange rates against USD.",
-      "lastChecked": "2026-11-21T14:20:46.110Z",
+      "lastChecked": "2026-11-22T14:11:55.009Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -107,7 +107,7 @@
       "name": "REST Countries",
       "category": "Geo",
       "description": "Country data for a fixed country (USA).",
-      "lastChecked": "2026-11-21T14:20:47.195Z",
+      "lastChecked": "2026-11-22T14:11:56.116Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -117,7 +117,7 @@
       "name": "Zippopotam",
       "category": "Geo",
       "description": "Place data for a fixed US zip code (90210).",
-      "lastChecked": "2026-11-21T14:20:48.243Z",
+      "lastChecked": "2026-11-22T14:11:57.175Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -127,7 +127,7 @@
       "name": "Nager Public Holidays",
       "category": "Geo",
       "description": "Public holidays for the US in 2026.",
-      "lastChecked": "2026-11-21T14:20:49.327Z",
+      "lastChecked": "2026-11-22T14:11:58.318Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -137,7 +137,7 @@
       "name": "IP-API",
       "category": "Geo",
       "description": "IP geolocation for a fixed IP (8.8.8.8).",
-      "lastChecked": "2026-11-21T14:20:50.351Z",
+      "lastChecked": "2026-11-22T14:11:59.435Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -147,7 +147,7 @@
       "name": "Open Library",
       "category": "Books",
       "description": "Book/work metadata for a fixed work record.",
-      "lastChecked": "2026-11-21T14:20:52.836Z",
+      "lastChecked": "2026-11-22T14:12:04.367Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -157,17 +157,18 @@
       "name": "Gutendex",
       "category": "Books",
       "description": "Project Gutenberg ebook metadata for a fixed book.",
-      "lastChecked": "2026-11-21T14:20:53.917Z",
+      "lastChecked": "2026-11-22T14:12:20.369Z",
       "lastChange": null,
       "changeCount": 0,
-      "status": "ok"
+      "status": "error",
+      "error": "/books/?ids=1342: This operation was aborted"
     },
     {
       "id": "met-museum",
       "name": "Met Museum",
       "category": "Art",
       "description": "Collection record for a fixed Met Museum object.",
-      "lastChecked": "2026-11-21T14:20:55.226Z",
+      "lastChecked": "2026-11-22T14:12:21.932Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -177,7 +178,7 @@
       "name": "Art Institute of Chicago",
       "category": "Art",
       "description": "Artwork record for a fixed Art Institute of Chicago piece.",
-      "lastChecked": "2026-11-21T14:20:56.636Z",
+      "lastChecked": "2026-11-22T14:12:23.205Z",
       "lastChange": "2026-10-28",
       "changeCount": 2,
       "status": "ok"
@@ -187,7 +188,7 @@
       "name": "GitHub REST API",
       "category": "Dev",
       "description": "Repository metadata for a fixed public repo (octocat/Hello-World).",
-      "lastChecked": "2026-11-21T14:20:57.970Z",
+      "lastChecked": "2026-11-22T14:12:24.402Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -197,7 +198,7 @@
       "name": "npm Registry",
       "category": "Dev",
       "description": "Package metadata for a fixed npm package (express).",
-      "lastChecked": "2026-11-21T14:20:59.049Z",
+      "lastChecked": "2026-11-22T14:12:25.563Z",
       "lastChange": "2026-10-10",
       "changeCount": 3,
       "status": "ok"
@@ -207,7 +208,7 @@
       "name": "PyPI",
       "category": "Dev",
       "description": "Package metadata for a fixed PyPI package (requests).",
-      "lastChecked": "2026-11-21T14:21:00.096Z",
+      "lastChecked": "2026-11-22T14:12:26.598Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -217,7 +218,7 @@
       "name": "Hacker News",
       "category": "Dev",
       "description": "A fixed Hacker News item.",
-      "lastChecked": "2026-11-21T14:21:01.263Z",
+      "lastChecked": "2026-11-22T14:12:27.735Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -227,7 +228,7 @@
       "name": "HN Algolia API",
       "category": "Dev",
       "description": "A fixed Hacker News thread via the Algolia search API.",
-      "lastChecked": "2026-11-21T14:21:02.628Z",
+      "lastChecked": "2026-11-22T14:12:29.082Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -237,7 +238,7 @@
       "name": "Stack Exchange",
       "category": "Dev",
       "description": "Top-voted Stack Overflow question.",
-      "lastChecked": "2026-11-21T14:21:03.740Z",
+      "lastChecked": "2026-11-22T14:12:30.211Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -247,7 +248,7 @@
       "name": "Open Notify (ISS)",
       "category": "Space",
       "description": "Current position of the International Space Station.",
-      "lastChecked": "2026-11-21T14:21:04.822Z",
+      "lastChecked": "2026-11-22T14:12:32.402Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -257,7 +258,7 @@
       "name": "Open Notify (Astronauts)",
       "category": "Space",
       "description": "People currently in space.",
-      "lastChecked": "2026-11-21T14:21:05.850Z",
+      "lastChecked": "2026-11-22T14:12:33.457Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -267,7 +268,7 @@
       "name": "Jikan (MyAnimeList)",
       "category": "Media",
       "description": "A fixed anime entry (Cowboy Bebop).",
-      "lastChecked": "2026-11-21T14:21:07.112Z",
+      "lastChecked": "2026-11-22T14:12:34.944Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "error",
@@ -278,7 +279,7 @@
       "name": "TVMaze",
       "category": "Media",
       "description": "A fixed TV show.",
-      "lastChecked": "2026-11-21T14:21:08.659Z",
+      "lastChecked": "2026-11-22T14:12:36.296Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -288,7 +289,7 @@
       "name": "TheMealDB",
       "category": "Food",
       "description": "Meal search for a fixed query (chicken).",
-      "lastChecked": "2026-11-21T14:21:10.179Z",
+      "lastChecked": "2026-11-22T14:12:37.719Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -298,7 +299,7 @@
       "name": "TheCocktailDB",
       "category": "Food",
       "description": "Cocktail search for a fixed query (margarita).",
-      "lastChecked": "2026-11-21T14:21:11.729Z",
+      "lastChecked": "2026-11-22T14:12:38.886Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -308,7 +309,7 @@
       "name": "Jolpica F1",
       "category": "Sports",
       "description": "Current F1 driver standings.",
-      "lastChecked": "2026-11-21T14:21:13.212Z",
+      "lastChecked": "2026-11-22T14:12:39.959Z",
       "lastChange": null,
       "changeCount": 0,
       "status": "ok"
@@ -318,7 +319,7 @@
       "name": "Hipolabs Universities",
       "category": "Reference",
       "description": "University search for a fixed query.",
-      "lastChecked": "2026-11-21T14:21:14.381Z",
+      "lastChecked": "2026-11-22T14:12:41.017Z",
       "lastChange": "2026-11-21",
       "changeCount": 13,
       "status": "ok"
@@ -328,7 +329,7 @@
       "name": "Remotive",
       "category": "Jobs",
       "description": "Remote job listings (one result).",
-      "lastChecked": "2026-11-21T14:21:15.452Z",
+      "lastChecked": "2026-11-22T14:12:42.095Z",
       "lastChange": "2026-10-09",
       "changeCount": 4,
       "status": "ok"
