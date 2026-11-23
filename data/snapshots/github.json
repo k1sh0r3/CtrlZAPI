@@ -1,14 +1,14 @@
 {
   "id": "github",
   "name": "GitHub REST API",
-  "fetchedAt": "2026-11-22T14:12:24.401Z",
+  "fetchedAt": "2026-11-23T17:34:01.965Z",
   "endpoints": {
     "/repos/octocat/Hello-World": {
       "label": "Get a repository",
       "url": "https://api.github.com/repos/octocat/Hello-World",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-11-22T14:12:24.401Z",
+      "fetchedAt": "2026-11-23T17:34:01.965Z",
       "hash": "b2151d426b902f44",
       "schema": {
         "type": "object",

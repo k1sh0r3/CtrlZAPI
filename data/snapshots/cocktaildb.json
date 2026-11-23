@@ -1,14 +1,14 @@
 {
   "id": "cocktaildb",
   "name": "TheCocktailDB",
-  "fetchedAt": "2026-11-22T14:12:38.885Z",
+  "fetchedAt": "2026-11-23T17:34:15.264Z",
   "endpoints": {
     "/api/json/v1/1/search.php?s=margarita": {
       "label": "Search cocktails",
       "url": "https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-11-22T14:12:38.885Z",
+      "fetchedAt": "2026-11-23T17:34:15.264Z",
       "hash": "d016d8fbe64bc515",
       "schema": {
         "type": "object",
