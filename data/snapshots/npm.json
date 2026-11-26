@@ -1,14 +1,14 @@
 {
   "id": "npm",
   "name": "npm Registry",
-  "fetchedAt": "2026-11-25T16:54:40.114Z",
+  "fetchedAt": "2026-11-26T16:31:47.421Z",
   "endpoints": {
     "/express/latest": {
       "label": "Get package version",
       "url": "https://registry.npmjs.org/express/latest",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-11-25T16:54:40.114Z",
+      "fetchedAt": "2026-11-26T16:31:47.421Z",
       "hash": "b069b9b73990edec",
       "schema": {
         "type": "object",
