@@ -1,4 +1,16 @@
 {
   "id": "rest-countries",
-  "entries": []
+  "entries": [
+    {
+      "date": "2026-11-27",
+      "endpoint": "/v3.1/alpha/usa",
+      "changes": [
+        {
+          "op": "added",
+          "path": "errors[].code",
+          "detail": "new string"
+        }
+      ]
+    }
+  ]
 }

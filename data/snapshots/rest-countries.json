@@ -1,15 +1,15 @@
 {
   "id": "rest-countries",
   "name": "REST Countries",
-  "fetchedAt": "2026-11-26T16:31:32.634Z",
+  "fetchedAt": "2026-11-27T16:17:16.973Z",
   "endpoints": {
     "/v3.1/alpha/usa": {
       "label": "Get country by code",
       "url": "https://restcountries.com/v3.1/alpha/usa",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-11-26T16:31:32.633Z",
-      "hash": "16b563b51c29ff8a",
+      "fetchedAt": "2026-11-27T16:17:16.973Z",
+      "hash": "be8ca806576d014d",
       "schema": {
         "type": "object",
         "fields": {
@@ -25,6 +25,9 @@
               "type": "object",
               "fields": {
                 "message": {
+                  "type": "string"
+                },
+                "code": {
                   "type": "string"
                 }
               }

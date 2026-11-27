@@ -1,14 +1,14 @@
 {
   "id": "fear-greed",
   "name": "Fear & Greed Index",
-  "fetchedAt": "2026-11-26T16:31:26.050Z",
+  "fetchedAt": "2026-11-27T16:17:13.216Z",
   "endpoints": {
     "/fng/": {
       "label": "Fear & Greed index",
       "url": "https://api.alternative.me/fng/",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-11-26T16:31:26.050Z",
+      "fetchedAt": "2026-11-27T16:17:13.215Z",
       "hash": "c47d1304ff97f43b",
       "schema": {
         "type": "object",

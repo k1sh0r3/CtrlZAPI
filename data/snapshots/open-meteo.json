@@ -1,14 +1,14 @@
 {
   "id": "open-meteo",
   "name": "Open-Meteo",
-  "fetchedAt": "2026-11-26T16:31:17.113Z",
+  "fetchedAt": "2026-11-27T16:17:04.680Z",
   "endpoints": {
     "/v1/forecast?latitude=52.52&longitude=13.41&current=temperature_2m,relative_humidity_2m,weather_code": {
       "label": "Current forecast",
       "url": "https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current=temperature_2m,relative_humidity_2m,weather_code",
       "status": "ok",
       "httpStatus": 200,
-      "fetchedAt": "2026-11-26T16:31:17.113Z",
+      "fetchedAt": "2026-11-27T16:17:04.680Z",
       "hash": "8d3268b05ede0343",
       "schema": {
         "type": "object",
